@@ -1,5 +1,5 @@
 # library-webapp
-Efficiently manage your reading resources with this Library Web App, powered by React (v18.2.0) for the front end, Spring Boot (v2.7.3) for the backend, and PostgreSQL (v15.2) as the robust database.
+Efficiently manage your reading resources with this Library Web App, powered by React (v18.2.0) for the frontend, Spring Boot (v2.7.3) for the backend, and PostgreSQL (v15.2) as the database.
 
 React Frontend: Enjoy a dynamic and user-friendly interface.
 
