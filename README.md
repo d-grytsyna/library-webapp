@@ -8,10 +8,12 @@ User Roles: Role information securely passed in JWT tokens for precise access co
 Stripe Integration: Hassle-free payment processing for fees paying.
 
 **Database structure:**
-<img width="681" alt="database-library" src="https://github.com/d-grytsyna/library-webapp/assets/129409885/162c2bc1-f0bf-4ef9-8d32-e34bfe042c80">
+
+<img width="400" alt="database-library" src="https://github.com/d-grytsyna/library-webapp/assets/129409885/162c2bc1-f0bf-4ef9-8d32-e34bfe042c80">
 
 **Home page:**
-![localhost_3000_home](https://github.com/d-grytsyna/library-webapp/assets/129409885/e7e67d17-c1f5-4ad5-9234-11656a7d3165)
+<img width="400" alt="database-library" src="https://github.com/d-grytsyna/library-webapp/assets/129409885/fe694841-2de5-4980-8b73-36fc1be4edf7">
+
 
 User Features:
 Book Discovery:
